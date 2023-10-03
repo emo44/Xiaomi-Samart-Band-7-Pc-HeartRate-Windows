@@ -1,4 +1,4 @@
-# Xiaomi-Smartt-Band-7-Pc-HeartRate-Windows
+# Xiaomi-Smart-Band-7-Pc-HeartRate-Windows
 Heart Rate Display for Xiaomi Smart Band 7 for Pc Windows
 A little program to display Heart Rate from Xiaomi Smart Band 7 for windows
 
